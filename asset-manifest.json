@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.992fa864.css",
-    "main.js": "/react-gh-pages/static/js/main.b4cbc260.js",
-    "static/js/453.acca0757.chunk.js": "/react-gh-pages/static/js/453.acca0757.chunk.js",
-    "static/media/portfolio-2.jpg": "/react-gh-pages/static/media/portfolio-2.7b9069b686a35101781b.jpg",
-    "static/media/website photo.png": "/react-gh-pages/static/media/website photo.6f64e9ed01fedb5d58ce.png",
-    "static/media/portfolio-1.jpg": "/react-gh-pages/static/media/portfolio-1.489d30e850f976b152bd.jpg",
-    "static/media/logo1.png": "/react-gh-pages/static/media/logo1.6f6dae67ebe80f20fffc.png",
-    "static/media/ui-design.png": "/react-gh-pages/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/react-gh-pages/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.992fa864.css.map": "/react-gh-pages/static/css/main.992fa864.css.map",
-    "main.b4cbc260.js.map": "/react-gh-pages/static/js/main.b4cbc260.js.map",
-    "453.acca0757.chunk.js.map": "/react-gh-pages/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/Portfolio-website/static/css/main.992fa864.css",
+    "main.js": "/Portfolio-website/static/js/main.c29478c7.js",
+    "static/js/453.acca0757.chunk.js": "/Portfolio-website/static/js/453.acca0757.chunk.js",
+    "static/media/portfolio-2.jpg": "/Portfolio-website/static/media/portfolio-2.7b9069b686a35101781b.jpg",
+    "static/media/website photo.png": "/Portfolio-website/static/media/website photo.6f64e9ed01fedb5d58ce.png",
+    "static/media/portfolio-1.jpg": "/Portfolio-website/static/media/portfolio-1.489d30e850f976b152bd.jpg",
+    "static/media/logo1.png": "/Portfolio-website/static/media/logo1.6f6dae67ebe80f20fffc.png",
+    "static/media/ui-design.png": "/Portfolio-website/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Portfolio-website/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio-website/index.html",
+    "main.992fa864.css.map": "/Portfolio-website/static/css/main.992fa864.css.map",
+    "main.c29478c7.js.map": "/Portfolio-website/static/js/main.c29478c7.js.map",
+    "453.acca0757.chunk.js.map": "/Portfolio-website/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.992fa864.css",
-    "static/js/main.b4cbc260.js"
+    "static/js/main.c29478c7.js"
   ]
 }
